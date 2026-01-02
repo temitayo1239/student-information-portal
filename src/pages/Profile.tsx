@@ -159,7 +159,7 @@ const Profile = () => {
             <h3 className="text-lg font-semibold text-foreground mb-4">Academic Information</h3>
             <div className="space-y-3">
               <InfoItem icon={Building} label="Department" value={student?.department || ''} />
-              <InfoItem icon={Building} label="Faculty" value={student?.faculty || ''} />
+              <InfoItem icon={Building} label="Collage" value={student?.collage || ''} />
               <InfoItem icon={BookOpen} label="Level" value={student?.level || ''} />
             </div>
           </motion.div>

@@ -10,7 +10,7 @@ interface Student {
   email: string;
   phone: string;
   department: string;
-  faculty: string;
+  collage: string;
   level: string;
   session: string;
   semester: string;

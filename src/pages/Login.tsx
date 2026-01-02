@@ -122,7 +122,7 @@ const Login = () => {
                 <GraduationCap className="w-8 h-8 text-primary-foreground" />
               </div>
               <h1 className="text-2xl font-bold text-foreground">Student Portal</h1>
-              <p className="text-muted-foreground">Polytechnic Nigeria</p>
+              <p className="text-muted-foreground">Bells University Of Technology</p>
             </div>
 
             <div className="card-elevated p-8">

@@ -86,7 +86,7 @@ const DashboardLayout = ({ children }: DashboardLayoutProps) => {
             </div>
             <div>
               <h1 className="font-bold text-lg text-sidebar-foreground">Student Portal</h1>
-              <p className="text-xs text-sidebar-foreground/60">Polytechnic Nigeria</p>
+              <p className="text-xs text-sidebar-foreground/60">Bells University Of Technology</p>
             </div>
           </div>
         </div>
@@ -147,7 +147,7 @@ const DashboardLayout = ({ children }: DashboardLayoutProps) => {
             </div>
             <div>
               <h1 className="font-bold text-lg text-sidebar-foreground">Student Portal</h1>
-              <p className="text-xs text-sidebar-foreground/60">Polytechnic Nigeria</p>
+              <p className="text-xs text-sidebar-foreground/60">Bells University Of Technology</p>
             </div>
           </div>
         </div>
@@ -280,7 +280,7 @@ const DashboardLayout = ({ children }: DashboardLayoutProps) => {
                 </div>
                 <div>
                   <h1 className="font-bold text-lg text-sidebar-foreground">Student Portal</h1>
-                  <p className="text-xs text-sidebar-foreground/60">Polytechnic Nigeria</p>
+                  <p className="text-xs text-sidebar-foreground/60">Bells University Of Technology</p>
                 </div>
               </div>
             </div>
